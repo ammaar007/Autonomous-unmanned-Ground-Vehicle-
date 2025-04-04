@@ -14,3 +14,4 @@ relationship between the left and right cameras, enabling the transformation of 
 software and hardware nodes.
 7) integration of ARDUPILOT map with GUI designed in PyQT5 for waypoint selection and navigation demonstration.
 8) Sensor caliberation and sensor fusion for accurate localization.
+https://www.youtube.com/watch?v=GjMDFGLWTrA
